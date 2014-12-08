@@ -11,9 +11,10 @@ along.
 Minecraft has its own service, [Minecraft Realms](https://minecraft.net/realms),
 that is quite easy to use. But it costs $13/month to run a server, or $10.40/month
 if you let them bill your credit card automatically. If you don't mind investing
-a bit of effort, and your are roughly comfortable with a Unix command line, you
-can get your own server up and running for only $5/month! If that interests you,
-read on.
+a bit more effort, effort, and your are roughly comfortable with a Unix command line, you
+can get your own server up and running for only $5/month. This server will probably
+handle only 5-10 simultaneous users at the $5 level, but expanding the capacity
+is very easy to do if necessary (for more money, of course).
 
 ### Prerequisites
 
