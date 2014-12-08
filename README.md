@@ -8,7 +8,7 @@ that is also safe is no easy task. One alternative is to create your own
 "invite-only" server, so that you and/or your child can control who can play
 along. 
 
-Minecraft has its own service, (Minecraft Realms)[https://minecraft.net/realms],
+Minecraft has its own service, [Minecraft Realms](https://minecraft.net/realms),
 that is quite easy to use. But it costs $13/month to run a server, or $10.40/month
 if you let them bill your credit card automatically. If you don't mind investing
 a bit of effort, and your are roughly comfortable with a Unix command line, you
