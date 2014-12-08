@@ -13,8 +13,7 @@ that is quite easy to use. But it costs $13/month to run a server, or $10.40/mon
 if you let them bill your credit card automatically. If you don't mind investing
 a bit more effort, effort, and your are roughly comfortable with a Unix command line, you
 can get your own server up and running for only $5/month. This server will probably
-handle only 6-8 simultaneous users at the $5 level, but expanding the capacity
-is very easy to do if necessary (for more money, of course).
+handle 6-8 users, but can be expanded as needed (for more money, of course).
 
 ### Prerequisites
 
