@@ -2,6 +2,10 @@
 
 ### Introduction
 
+*Problems? Improvements? 
+[File a bug report](https://github.com/mcg1969/mcserver/issues). I can't
+offer a rapid response, but I do intend for this to actually work!*
+
 If your child is a full-bore Minecrafter, he or she is probably going to want to
 join a server at some point, to play with other people. Finding a public server
 that is also safe is no easy task. One alternative is to create your own
