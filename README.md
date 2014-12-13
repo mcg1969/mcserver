@@ -248,4 +248,5 @@ not satisfied, then you might consider Minecraft Realms.
 
     to switch over to the running minecraft server (assuming it's still 
     running). There you can type commands to help you manage the server. 
+    To exit this screen without shutting down the server, type `<CTRL>-A <CTRL>-D`.
  
