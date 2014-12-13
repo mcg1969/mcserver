@@ -189,7 +189,7 @@ not satisfied, then you might consider Minecraft Realms.
   	init script, which will start Minecraft automatically on boot:
 
 		cd ~
-		wget -O https://github.com/mcg1969/mcserver/raw/master/initscript.sh
+		wget https://github.com/mcg1969/mcserver/raw/master/initscript.sh
 
 	This is an edited version of the init script offered
 	[on this page](http://minecraft.gamepedia.com/Tutorials/Server_startup_script).
