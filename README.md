@@ -80,12 +80,12 @@ not satisfied, then you might consider Minecraft Realms.
 		ssh root@173.172.171.170
 
 	Once you are connected to the server, you need to change the root password,
-	install Java and Screens, and add a swap file. Without a swap file, the
+	install Java and Screen, and add a swap file. Without a swap file, the
 	Minecraft server will die whenever it runs out of memory. (And it will.)
 
 		passwd
 			<change your root password>
-		yum install java-sdk screens
+		yum install java-sdk screen
 		fallocate -l 4G /swapfile		
 		chmod 600 /swapfile
 		mkswap /swapfile
