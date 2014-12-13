@@ -189,26 +189,19 @@ not satisfied, then you might consider Minecraft Realms.
   	init script, which will start Minecraft automatically on boot:
 
 		cd ~
-		wget -O minecraft http://j.mp/1w3VTUz
+		wget -O https://github.com/mcg1969/mcserver/raw/master/initscript.sh
 
-	The abbreviated link is to the script offered 
+	This is an edited version of the init script offered
 	[on this page](http://minecraft.gamepedia.com/Tutorials/Server_startup_script).
-	Edit this script with your text editor and change these variables. If you
-	made any modifications to the above instructions, you may need to do more:
+	Specifically, we have edited the `MCPATH`, `BACKUPPATH`, `MINHEAP`, and `MAXHEAP`
+	values to suit our specific server and directory choices above. So if you deviated
+	from the instructions above, you may need to edit this file to suit.
+	
+	Now move the script into its proper position, fire it up, and see if it works!
 
-		MCPATH='/home/minecraft'		
-		BACKUPPATH='/home/minecraft/backups'
-		MINHEAP='480'
-		MAXHEAP='480'
-
-	Now move the script into its proper position:
-
-		cp minecraft /etc/init.d/
+		cp initscript.sh /etc/init.d/minecraft
 		chmod +x /etc/init.d/minecraft
 		chkconfig --add minecraft
-
-	Fire it up and let's see if it works!
-
 		service minecraft start
 
 	Don't be alarmed if it takes almost 10 seconds before it says 
